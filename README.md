@@ -1,2 +1,9 @@
 # python-calculator
-a simple calculator built using python
+A simple calculator built using python
+## features
+-addition
+-subtraction
+-multiplication
+-division
+## language used
+Python
